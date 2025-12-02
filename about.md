@@ -27,8 +27,13 @@ Bose, N. and S. Das. 2017. "Political Reservation for Women and Delivery of Publ
 # Classes Taught
 
 CLA 1001: College of Liberal Arts First Year Experience
+
 Econ 1102: Principles of Microeconomics 
+
 Econ 1902: Honors Principles of Microeconomics
+
 Econ 3062: Economics of Global Poverty 
+
 Econ 3547: Economics of Growth & Development 
+
 Econ 3546: Women in the Economy 
