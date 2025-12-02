@@ -9,5 +9,7 @@ Here are some of my favorite works:
 
 | Year | Project | Description |
 |------|----------|--------------|
-| 2024 | Tokyo Mapping Studio | A collection of urban spatial stories |
-| 2023 | Cities in Motion | An interactive Leaflet map series |
+| Fall 2025 | Mastery Assignment #2 | Population Density Analysis in Miami-Dade County
+and Election Mapping in Pennsylvania |
+| Fall 2025 | Mastery Assignment #3 | Identifying High-Risk Areas for Water Contamination
+in Flint, Michigan |
