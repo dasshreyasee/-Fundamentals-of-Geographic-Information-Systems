@@ -5,7 +5,6 @@ nav_order: 2
 
 # About Me
 
-I’m a geographer and educator passionate about mapping, cities, and design.
-
-- **Current role:** Professor of Urban Spatial Design in Japan  
-- **Interests:** Web mapping, spatial analysis, and creative geography 
+I’m an Instructional Associate Professor at Temple University, Philadelphia
+- **Current role:** Professor of Economics 
+- **Interests:** Gender and Development Economics, Spatial Analysis, and Creative Geography 
