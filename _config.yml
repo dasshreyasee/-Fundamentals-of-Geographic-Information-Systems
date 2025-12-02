@@ -1,80 +1,27 @@
-# ------------------------------------------------------------
-#   SITE SETTINGS
-# ------------------------------------------------------------
-title: "Welcome to my Portfolio for Fundamentals of Geographic Information Systems"
-description: "GIS Portfolio Website"
-url: "https://dasshreyasee.github.io"
-baseurl: "/GUS5062"  # IMPORTANT: your repo name
+title: My Website
+description: Portfolio and projects of Your Name
+remote_theme: pages-themes/slate
 
-# ------------------------------------------------------------
-#   THEME
-# ------------------------------------------------------------
-remote_theme: pages-themes/cayman
-
-enable-scholar: false
-
-# al-folio theme options
-theme_color: "light"
+# Enable GitHub Pages plugin
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-include-cache
+  
 
-# ------------------------------------------------------------
-#   NAVIGATION BAR
-# ------------------------------------------------------------
-# Al-folio uses a YAML array for the navbar
-navbar:
+# Set navigation order
+nav_order: 1
+
+# Add your navigation structure (optional override)
+nav:
   - title: "Home"
-    url: "/"
+    url: /
   - title: "About Me"
-    url: "/about"
-  - title: "GUS 5062 Projects"
-    url: "/projects"
+    url: /about
+  - title: "Projects"
+    url: /projects
   - title: "Contact"
-    url: "https://sites.google.com/site/shreyaseedas/"
+    url: /contact
 
-# ------------------------------------------------------------
-#   LOGO + BRANDING
-# ------------------------------------------------------------
-logo: "/assets/logo.png"
-favicon: "/assets/logo.png"
-
-# ------------------------------------------------------------
-#   SEARCH
-# ------------------------------------------------------------
-search:
-  enabled: true
-
-# ------------------------------------------------------------
-#   MARKDOWN & SYNTAX
-# ------------------------------------------------------------
-markdown: kramdown
-highlighter: rouge
-
-# ------------------------------------------------------------
-#   COLLECTIONS (OPTIONAL – helps al-folio organize content)
-# ------------------------------------------------------------
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
-
-# ------------------------------------------------------------
-#   DEFAULTS (applies layout automatically)
-# ------------------------------------------------------------
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "page"
+# Optional extras
+color_scheme: light
+logo: /assets/logo.png
+search_enabled: true
