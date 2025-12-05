@@ -9,6 +9,8 @@ I’m an Instructional Associate Professor at Temple University, Philadelphia. I
 
 My research interests are in in gender economics, household economics, and development economics. Some of my current research the role natural and industrial disasters play in household formation and marital matching outcomes, the impact of women's property rights and political participation on their empowerment, water allocation rules on health and agricultural productivity, and most recently, the relationship between electrification and intimate partner violence. 
 
+I teach a variety of first-year and upper-level courses at Temple. Recently, I've been dabbling in research on how to teach economics better. 
+
 # Publications
 
 Das, Shreyasee & Shatanjaya Dasgupta. 2025. Marriage Market Responses in the Wake of a Natural Disaster in India. Journal of South Asian Development, 20 (1), 31-57. https://doi.org/10.1177/09731741241310652 
