@@ -5,7 +5,7 @@ nav_order: 3
 
 # Projects
 
-Here are some of my favorite works:
+Here are some of my favorite projects we did our GUS 5062 class at Temple. :
 
 | Year | Project | Description |
 |------|----------|--------------|
