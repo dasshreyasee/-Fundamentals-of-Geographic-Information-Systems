@@ -10,8 +10,13 @@ plugins:
 github:
   is_project_page: false 
 
-include:
-  - assets/css/custom.css
+defaults:
+  - scope:
+      path: ""
+    values:
+      stylesheets:
+        - assets/css/custom.css
+
 
 # Set navigation order
 nav_order: 1
