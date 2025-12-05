@@ -5,7 +5,10 @@ remote_theme: pages-themes/minimal
 # Enable GitHub Pages plugin
 plugins:
   - jekyll-remote-theme
-  
+
+ 
+github:
+  is_project_page: false 
 
 # Set navigation order
 nav_order: 1
