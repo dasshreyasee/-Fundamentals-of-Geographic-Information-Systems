@@ -20,7 +20,7 @@ nav_order: 1
 
   <!-- LEFT: Map Instead of Profile Photo -->
   <div>
-    <img src="assets/img/portfolio-map.png" alt="GIS Portfolio Map" width="320" style="border-radius: 6px;">
+    <img src="assets/Map_Lab1.png" alt="GIS Portfolio Map" width="320" style="border-radius: 6px;">
   </div>
 
   <!-- RIGHT: Main Content -->
