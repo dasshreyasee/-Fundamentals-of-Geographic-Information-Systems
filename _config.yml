@@ -16,13 +16,14 @@ nav_order: 1
 # Add your navigation structure (optional override)
 nav:
   - title: "Home"
-    url: /https://dasshreyasee.github.io/GUS5062/
+    url: /
   - title: "About Me"
     url: /about
   - title: "Projects"
     url: /projects
   - title: "Contact"
     url: /contact
+
 
 # Optional extras
 color_scheme: light
