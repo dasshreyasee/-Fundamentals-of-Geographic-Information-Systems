@@ -8,7 +8,7 @@ layout: default
 This project examines spatial patterns of contamination in Flint, Michigan, using GIS techniques taught in GUS 5062.
 
 ## Download file
-[Click to download](file1.pdf)
+[Click to download](MasteryAssignment3_FlintWaterCrisis_GUS5062.pdf)
 
 ## Map
 
