@@ -1,7 +1,17 @@
-/* Remove the theme's built-in page centering ONLY for the homepage */
-body.homepage .page {
-    max-width: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
+/* Hide the GitHub Pages Minimal theme sidebar/header */
+.site-header {
+  display: none !important;
 }
 
+/* Remove the theme's built-in narrow centered layout */
+.page {
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Optional: remove extra wrapper spacing */
+.wrapper {
+  padding: 0 !important;
+  margin: 0 !important;
+}
