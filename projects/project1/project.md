@@ -11,4 +11,4 @@ Description of what this project is.
 [Click to download](file1.pdf)
 
 ## Map
-![Map 1](map1.png)
+![Map 1](Flint_Overview_Map.png)
