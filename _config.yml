@@ -25,3 +25,9 @@ nav:
 
 color_scheme: light
 search_enabled: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: ["assets/css/custom.css"]
