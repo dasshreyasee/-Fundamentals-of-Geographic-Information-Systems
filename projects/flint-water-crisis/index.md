@@ -11,4 +11,7 @@ This project examines spatial patterns of contamination in Flint, Michigan, usin
 [Click to download](file1.pdf)
 
 ## Map
-![Map 1](Flint_Overview_Map.png)
+
+<p align="center">
+  <img src="Flint_Overview_Map.png" alt="Map showing contamination in Flint, Michigan" width="850">
+</p>
