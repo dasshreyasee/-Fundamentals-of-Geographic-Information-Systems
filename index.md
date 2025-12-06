@@ -11,8 +11,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Welcome
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+ Welcome to my GIS portfolio for Temple University's Fundamentals of GIS (GUS 5062). This site highlights selected GIS projects where I applied spatial analysis techniques to questions in environmental justice, urban infrastructure, and public health.
 
+Each project includes a map, a short narrative describing the spatial problem explored, and a summary of GIS tools used. These projects demonstrate skills in buffer analysis, spatial joins, suitability modeling, multi-criteria evaluation, and geoprocessing workflows. 
 ## About Me
 
 > This is a blockquote following a header.
