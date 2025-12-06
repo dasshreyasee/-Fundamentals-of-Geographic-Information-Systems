@@ -17,7 +17,7 @@ My research interests are in in gender economics, household economics, and devel
 
 I teach a variety of first-year and upper-level courses at Temple. Recently, I've been dabbling in research on how to teach economics better. 
 
-You can reach me at:
+You can reach me at
 
 - 📧 shreyasee.das@temple.edu  
 - 🌐 [Website](https://sites.google.com/site/shreyaseedas/)  
