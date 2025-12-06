@@ -29,16 +29,3 @@ You can reach me at
      Explore Projects from GUS 5062 →
   </a>
 </div>
-
-
-
-## Projects for GUS 5062
-
-Here are some of my favorite projects we did in the Fundamentals of Geographic Information Systems. I was particularly drawn to these projects because they highlight a core economic concept that is deeply relevant to environmental science: externalities, both positive and negative. Collectively, these projects explore topics ranging from environmental hazards to disparities in access to clean water and healthy foods.
-
-| Year      | Project                 | Description                                                                 | Link |
-|-----------|--------------------------|-----------------------------------------------------------------------------|------|
-| Fall 2025 | Landfills near Schools in LA    | Identifying Methane Landfills near Schools in Low-Income Areas in LA | [View Project](projects/la-landfills-schools/) |
-| Fall 2025 | Flint, MI Water Crisis   | Identifying High-Risk Areas for Water Contamination in Flint, Michigan     | [View Project](projects/flint-water-crisis/) |
-| Fall 2025 | Healthy Food Stores    | Identifying optimal locations for new healthy food stores in Philadelphia. |[View Project](projects/healthy-food-store) |
-
