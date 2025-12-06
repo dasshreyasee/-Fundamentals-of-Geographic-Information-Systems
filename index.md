@@ -21,7 +21,7 @@ nav_order: 1
       <a href="/GUS5062/">Main</a> |
       <a href="/GUS5062/projects.md">Projects</a> |
       <a href="/GUS5062/about.md">About Me</a> |
-      <a href="/GUS5062/contact,md">Contact</a>
+      <a href="/GUS5062/contact.md">Contact</a>
     </p>
 
     <hr>
