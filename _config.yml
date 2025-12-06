@@ -1,5 +1,4 @@
 title: GIS Portfolio
-logo: /assets/Map_Lab1.png
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
