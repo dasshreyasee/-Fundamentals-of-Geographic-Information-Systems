@@ -24,11 +24,11 @@ nav:
   - title: "Home"
     url: /GUS5062/
   - title: "About Me"
-    url: /GUS5062/about
+    url: /GUS5062/about.md
   - title: "Projects"
-    url: /GUS5062/projects
+    url: /GUS5062/projects.md
   - title: "Contact"
-    url: /GUS5062/contact
+    url: /GUS5062/contact.md
 
 color_scheme: light
 search_enabled: true
