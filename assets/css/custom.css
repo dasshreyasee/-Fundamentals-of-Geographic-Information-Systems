@@ -2,7 +2,7 @@
 .site-title a::before {
   content: "";
   display: inline-block;
-  background-image: url('/GUS5062/assets/Map_Lab1.png');
+  background-image: url('/assets/Map_Lab1.png');
   background-size: contain;
   background-repeat: no-repeat;
   width: 50px;
