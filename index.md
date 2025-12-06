@@ -11,7 +11,7 @@ Each project includes a map, a short narrative describing the spatial problem ex
 
 ## About Me
 
-I’m an Instructional Associate Professor at Temple University, Philadelphia. I joined the Economics Department in 2018. I earned her Ph.D., M.A., and B.Sc. in Economics from the University of Houston. Before Temple, I was as an Assistant Professor of Economics at the University of Wisconsin-Whitewater. 
+I’m an Instructional Associate Professor at Temple University, Philadelphia. I joined the Economics Department in 2018. I earned my Ph.D., M.A., and B.Sc. in Economics from the University of Houston. Before Temple, I was as an Assistant Professor of Economics at the University of Wisconsin-Whitewater. 
 
 My research interests are in in gender economics, household economics, and development economics. Some of my current research the role natural and industrial disasters play in household formation and marital matching outcomes, the impact of women's property rights and political participation on their empowerment, water allocation rules on health and agricultural productivity, and most recently, the relationship between electrification and intimate partner violence. 
 
