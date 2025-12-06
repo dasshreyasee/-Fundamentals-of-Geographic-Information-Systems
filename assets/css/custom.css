@@ -1,7 +1,16 @@
-/* Hide the GitHub Pages Minimal theme sidebar/header */
-.site-header {
-  display: none !important;
+/* Add custom logo to GitHub Pages Minimal theme header */
+.site-header::before {
+  content: "";
+  display: inline-block;
+  background-image: url('/GUS5062/assets/Map_Lab1.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 55px;   /* adjust if needed */
+  height: 55px;
+  margin-right: 12px;
+  vertical-align: middle;
 }
+
 
 /* Remove the theme's built-in narrow centered layout */
 .page {
