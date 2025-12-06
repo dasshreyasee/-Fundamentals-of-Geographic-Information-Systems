@@ -18,16 +18,3 @@
   font-weight: 600;
 }
 
-
-/* Remove the theme's built-in narrow centered layout */
-.page {
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* Optional: remove extra wrapper spacing */
-.wrapper {
-  padding: 0 !important;
-  margin: 0 !important;
-}
