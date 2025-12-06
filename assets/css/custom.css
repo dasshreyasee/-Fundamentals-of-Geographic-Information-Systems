@@ -1,5 +1,5 @@
 /* Add logo before site title */
-.site-title::before {
+.site-title a::before {
   content: "";
   display: inline-block;
   background-image: url('/GUS5062/assets/Map_Lab1.png');
