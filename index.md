@@ -1,44 +1,50 @@
 ---
-title: Home
 layout: default
-nav_order: 1
 ---
 
-<link rel="stylesheet" href="/GUS5062/assets/css/custom.css">
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-<div style="display: flex; gap: 40px; align-items: flex-start; margin-top: 20px;">
+[Link to another page](./another-page.html).
 
-  <!-- LEFT COLUMN: Name + Map -->
-  <div>
-    <h1 style="margin-bottom: 15px;">Shreyasee Das</h1>
-    <img src="/GUS5062/assets/Map_Lab1.png" alt="GIS Portfolio Map" width="340" style="border: 1px solid #ccc; border-radius: 4px;">
-  </div>
+There should be whitespace between paragraphs.
 
-  <!-- RIGHT COLUMN: Nav + Intro Text -->
-  <div style="max-width: 380px;">
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-    <p style="font-size: 1.1em; font-weight: bold; margin-bottom: 10px;">
-  <a href="/GUS5062/">Main</a> |
-  <a href="/GUS5062/projects">Projects</a> |
-  <a href="/GUS5062/about">About Me</a> |
-  <a href="/GUS5062/contact">Contact</a>
-</p>
+# Header 1
 
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-    <hr>
+## Header 2
 
-    <p>
-      Welcome to my GIS portfolio for Temple University's Fundamentals of GIS (GUS 5062).
-      This site highlights selected GIS projects where I applied spatial analysis techniques
-      to questions in environmental justice, urban infrastructure, and public health.
-    </p>
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
 
-    <p>
-      Each project includes a map, a short narrative describing the spatial problem explored,
-      and a summary of GIS tools used. These projects demonstrate skills in buffer analysis,
-      spatial joins, suitability modeling, multi-criteria evaluation, and geoprocessing workflows.
-    </p>
+### Header 3
 
-  </div>
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
-</div>
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
