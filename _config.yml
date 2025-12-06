@@ -1,7 +1,6 @@
 title: GIS Portfolio
-description:
+logo: /assets/Map_Lab1.png
 remote_theme: pages-themes/minimal
-
 plugins:
   - jekyll-remote-theme
 
@@ -28,7 +27,3 @@ nav:
 
 color_scheme: light
 search_enabled: true
-logo: ## Map (Detail View)
-<p align="center">
-  <img src="Flint_Detail_Map.png" alt="Detailed map of high-risk zones in Flint, Michigan" width="900">
-</p>
