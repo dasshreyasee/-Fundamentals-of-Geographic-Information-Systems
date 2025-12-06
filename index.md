@@ -3,6 +3,7 @@ title: Home
 layout: default
 nav_order: 1
 ---
+<link rel="stylesheet" href="/GUS5062/assets/css/custom.css">
 
 <div style="display: flex; gap: 40px; align-items: flex-start; margin-top: 20px;">
 
