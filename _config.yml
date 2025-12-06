@@ -22,6 +22,9 @@ defaults:
 nav:
   - title: "Home"
     url: "/GUS5062/"
+  - title: "Projects"
+    url: "/GUS5062/projects/"
+
     
 
 
