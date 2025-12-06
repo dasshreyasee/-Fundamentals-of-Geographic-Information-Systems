@@ -1,8 +1,7 @@
-title: GIS Portfolio
-description: You can reach me at:
+title: Fundamentals of Geographic Information Systems
 
-- 📧 shreyasee.das@temple.edu  
-- 🌐 [Website](https://sites.google.com/site/shreyaseedas/)  
+description: Portfolio created by Shreyasee Das as part of GUS 5062 at Temple University 
+
 remote_theme: pages-themes/minimal
 plugins:
   - jekyll-remote-theme
