@@ -3,7 +3,7 @@ title: Site Suitability for a Healthy Food Store (Philadelphia)
 layout: default
 ---
 
-# Site Suitability Analysis for a Healthy Food Store  
+<h3 align="center">Site Suitability Analysis for a Healthy Food Store</h3>
 <h3 align="center">Philadelphia GIS Analysis</h3>
 
 ## Project Narrative
