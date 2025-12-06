@@ -18,11 +18,12 @@ nav_order: 1
   <div style="max-width: 380px;">
 
     <p style="font-size: 1.1em; font-weight: bold; margin-bottom: 10px;">
-      <a href="/GUS5062/">Main</a> |
-      <a href="/GUS5062/projects.md">Projects</a> |
-      <a href="/GUS5062/about.md">About Me</a> |
-      <a href="/GUS5062/contact.md">Contact</a>
-    </p>
+  <a href="/GUS5062/">Main</a> |
+  <a href="/GUS5062/projects">Projects</a> |
+  <a href="/GUS5062/about">About Me</a> |
+  <a href="/GUS5062/contact">Contact</a>
+</p>
+
 
     <hr>
 
